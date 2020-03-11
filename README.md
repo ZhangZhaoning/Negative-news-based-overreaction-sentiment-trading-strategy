@@ -1,0 +1,1 @@
+# Negative-news-based-overreaction-sentiment-trading-strategy
