@@ -1,2 +1,3 @@
-# Python
-Negative news based trading strategy
+# Negative news based trading strategy
+
+Based on research of the market, my team took the idea of the neagtive news' influence on the investors' sentiment, and use the data obatined from Bloomburg about the news being symboled as negative, and explored the factor that worked the best for our trading strategy, from the data cleaning to statistical analysia and strategy implement and backtest, we worked on our own and finally got a satisfying result of sharp ratio at around 1.8. And using the Boeing crash news and Nike related Negative news as validation to test our trading point and strategy's performance.
