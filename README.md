@@ -1,1 +1,2 @@
-# Negative-news-based-overreaction-sentiment-trading-strategy
+# Python
+Negative news based trading strategy
